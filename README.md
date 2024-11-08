@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Cloney Mari</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer dedicated to expanding and enhancing my technical skills. Currently, I'm focused on leveling up my tech stack to stay on top of the latest trends and best practices in the industry.</h3>
+
+- 🌱Currently, I'm focused on leveling up my tech stack to stay on top of the latest trends and best practices in the industry.
 
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
 
 - ⚡ Fun fact **I am catlover😺**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
