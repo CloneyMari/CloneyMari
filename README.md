@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloneymari" alt="cloneymari" /></a> </p>
 
-- 🌱 I’m currently learning **Actively exploring new tools, frameworks, and techniques to enhance my knowledge and productivity.**
+- 🌱 Actively exploring new tools, frameworks, and techniques to enhance my knowledge and productivity.
 
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
 
