@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Cloney Mari</h1>
 
-- 🌱Currently, I'm focused on leveling up my tech stack to stay on top of the latest trends and best practices in the industry.
+- 🌱 I'm a developer passionate about learning and growth, dedicated to delivering high-quality work. I’m always exploring new technologies to deepen my expertise and enhance my skills.
 
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
 
