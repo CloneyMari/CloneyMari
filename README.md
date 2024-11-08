@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋 I'm Cloney Mari</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer dedicated to expanding and enhancing my technical skills. Currently, I'm focused on leveling up my tech stack to stay on top of the latest trends and best practices in the industry.</h3>
+<h3 align="center">Welcome to my GitHub profile!.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloneymari" alt="cloneymari" /></a> </p>
 
-- 🌱 Actively exploring new tools, frameworks, and techniques to enhance my knowledge and productivity.
-
+- 🌱 I'm a passionate developer dedicated to expanding and enhancing my technical skills. Currently, I'm focused on leveling up my tech stack to stay on top of the latest trends and best practices in the industry.
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
-
 - ⚡ Fun fact **I am catlover😺**
 
 <h3 align="left">Connect with me:</h3>
