@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋 I'm Cloney Mari</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloneymari" alt="cloneymari" /></a> </p>
 
 - 👩‍💻 I'm diving deeper into **responsive web design, enhancing my JavaScript skills, and learning React.js.**
 
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
 
-- ⚡ Fun fact **Certified cat lover 🐱—fluent in meows and expert in chin scratches!**
+- ⚡ Fun fact **I'm Certified cat lover 🐱—fluent in meows and expert in chin scratches!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
