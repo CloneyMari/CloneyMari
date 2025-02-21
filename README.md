@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **cloneymaricarandang@gmail.com**
 
-- ⚡ Fun fact **I'm Certified cat lover 🐱—fluent in meows and expert in chin scratches!**
+- ⚡ Fun fact **I'm a Certified cat lover 🐱—fluent in meows and expert in chin scratches!**
 
 <p align="left">
 </p>
