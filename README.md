@@ -32,10 +32,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 ###
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloneymari&show_icons=true&locale=en&layout=compact" alt="cloneymari" /></p>
 
