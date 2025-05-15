@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋 I'm Cloney Mari</h1>
 
-- 👩‍💻 I'm diving deeper into **responsive web design, enhancing my JavaScript skills, and learning React.js.**
+📫 How to reach me **cloneymaricarandang@gmail.com**
 
-- 📫 How to reach me **cloneymaricarandang@gmail.com**
-
-- ⚡ Fun fact **I'm a Certified cat lover 🐱—fluent in meows and expert in chin scratches!**
 
 <p align="left">
 </p>
